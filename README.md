@@ -4,7 +4,7 @@ This repository contains the code for a quantitative comparative analysis of imp
 ## Installation
 Clone the repository:
 
-git clone [https://github.com/OanhNguyen90/import-tariffs-green-transition-us-china-vietnam](https://github.com/OanhNguyen90/import-tariffs-green-transition-us-china-vietnam).git
+git clone https://github.com/OanhNguyen90/import-tariffs-green-transition-us-china-vietnam.git
 
 cd import-tariffs-green-transition-us-china-vietnam
 
