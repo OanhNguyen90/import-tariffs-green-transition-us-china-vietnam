@@ -3,7 +3,7 @@ This repository contains the code for a quantitative comparative analysis of imp
 
 ## Installation
 Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/OanhNguyen90/import-tariffs-green-transition-us-china-vietnam).git
 cd your-repo-name
 
 ## Install all required packages using the provided requirements.txt file:
