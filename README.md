@@ -3,6 +3,7 @@ This repository contains the code for a quantitative comparative analysis of imp
 
 ## Installation
 Clone the repository:
+
 git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/OanhNguyen90/import-tariffs-green-transition-us-china-vietnam).git
 
 cd import-tariffs-green-transition-us-china-vietnam
@@ -12,11 +13,14 @@ pip install -r requirements.txt
 
 ## If you do not have requirements.txt or prefer to install manually, run:
 pip install pandas numpy statsmodels scikit-learn matplotlib seaborn pandas-datareader openpyxl
+
 The code requires Python 3.10 or newer.
 
 ## Usage
 Run the main pipeline script from the project root directory:
+
 python src/research_pipeline.py
+
 The script will automatically fetch data from the World Bank API, perform feature engineering, estimate the models, and generate output files.
 
 ## Output
