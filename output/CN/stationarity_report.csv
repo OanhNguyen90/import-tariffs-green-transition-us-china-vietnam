@@ -1,0 +1,10 @@
+series,pvalue,stationary,n
+renewable_energy,0.65750590757506,False,224
+forest_area,0.4891769918826795,False,224
+freshwater_withdraw,0.47869082412605374,False,224
+population_density,0.7236006208394743,False,224
+gdp_growth,0.07365351965253866,False,224
+inflation,0.6631027446140556,False,224
+imports,0.30058319529931266,False,224
+policy_rate,0.0011580837423002088,True,224
+exchange_rate,0.37469184705337677,False,224
